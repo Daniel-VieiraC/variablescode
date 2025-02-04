@@ -4,11 +4,11 @@ using namespace std;
 
 int main() {
 
-string nome = "Daniel"; //Daniel Vieira//
+string nome = "Daniel";
  
-float idade = 15; //15//
+float idade = 15;
 
-char humano = 's'; //S//
+char humano = 's';
 
 cout << "Qual é seu nome?";
 
